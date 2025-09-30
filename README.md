@@ -1,2 +1,2 @@
 # ofertasbeleza
-ofertas beleza, fitness
+ofertas beleza fitness
